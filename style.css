@@ -11,7 +11,7 @@ li{
     margin: 15px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     border: green 3px solid;
-    border-radius: 3px;
+    border-radius: 30px;
     background-color: bisque;
     padding: 20px;
 }
@@ -21,7 +21,7 @@ li{
     color: brown;
     padding: 20px;
     border: green 3px solid;
-    border-radius: 3px;
+    border-radius: 30px;
     background-color: bisque;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -34,7 +34,7 @@ li{
     color: brown;
     padding: 20px;
     border: green 3px solid;
-    border-radius: 3px;
+    border-radius: 30px;
     background-color: bisque;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-top: 10px;
